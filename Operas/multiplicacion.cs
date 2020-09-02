@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Operas
 {
-    class multiplicacion
+    class multiplicacion:resta
     {
         public double Multiplicacion(double a, double b)
 

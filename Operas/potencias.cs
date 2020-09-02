@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Operas
 {
-    class potencias
+    class potencias:division
     {
         public double Potenciacion(double a, double b)
 

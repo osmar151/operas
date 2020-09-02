@@ -12,6 +12,7 @@ namespace Operas
 
         static Menu m = new Menu();
 
+        
 
 
         static void Main(string[] args)
@@ -20,7 +21,8 @@ namespace Operas
 
             int opciones = 0;
 
-
+            Console.WriteLine("integrantes: Osmar, Giuliana, Isabel, Lineli y Fatima");
+            Console.WriteLine("______________________________________________________ \n ");
 
             while (opciones != 4)
 

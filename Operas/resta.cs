@@ -1,12 +1,12 @@
 ﻿namespace Operas
 {
-    class resta
+    class resta:suma
     {
         public double Resta(double a, double b)
 
         {
 
-            return -(a - b);
+            return (a - b);
 
         }
     }

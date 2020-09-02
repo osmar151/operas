@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Operas
 {
-    class radicacion
+    class radicacion:potencias
     {
         public double Radicacion(double a, double b)
 

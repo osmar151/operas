@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Operas
 {
-    class division
+    class division:multiplicacion
     {
         public double Divicion(double a, double b)
 
